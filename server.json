@@ -1,0 +1,5 @@
+{
+    "app":{
+        "cfengine":"http://update.lucee.org/rest/update/provider/forgebox/5.3.3.56-SNAPSHOT"
+    }
+}
